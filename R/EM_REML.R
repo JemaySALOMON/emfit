@@ -1,4 +1,4 @@
-#' EM–REML for Linear Mixed Models (Henderson formulation)
+#' EM–REML for Linear Mixed Models
 #'
 #' Estimate variance components in a linear mixed model using
 #' the Expectation–Maximization (EM) algorithm under
